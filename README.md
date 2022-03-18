@@ -6,3 +6,8 @@ I always wanted to have an app where I can keep with the book I read (something 
 The app is build in Kotlin using Jetpack Compose and Room. 
 The architecture is repsecting the MVVM guidlines. 
 A REST API was build in Java Springboot to demonstrate that it can communicate with a server (in a local area network) 
+<div>
+<img src="/Images/phone.PNG" width="330"/>
+<img src="/Images/phone2.jpg" width="250"/>
+<img src="/Images/phone3.jpg" width="250"/>
+</div>
